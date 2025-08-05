@@ -1,0 +1,9 @@
+AlphaNode-Sniper-Bot/
+│
+├── config.py                 # 🔐 API keys, Telegram, other credentials
+├── strategies.py             # 📊 Strategy logic (SMC, EMA, OB, RSI, etc.)
+├── scanner.py                # 🔎 Live market scanner
+├── telegram_alerts.py        # 📤 Send formatted signals to Telegram
+├── main_colab.ipynb          # ▶️ Main Google Colab interface
+├── requirements.txt          # 📦 Required Python libraries
+└── README.md                 # 📘 Setup guide and instructions
