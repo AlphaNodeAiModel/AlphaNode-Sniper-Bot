@@ -1,0 +1,9 @@
+# config.py
+
+# ✅ Bybit API credentials (READ ONLY)
+API_KEY = "nrhJQnLjMtOq6HzsCC"
+API_SECRET = "kyhvtCyeyVFRxGqCdBUocTIGX6ruzN1QFM65"
+
+# ✅ Telegram Bot
+TELEGRAM_TOKEN = "7860365931:AAHUC5z6HSTF3O34xS6hwuk8_QDc3bgbC8g"
+TELEGRAM_CHAT_ID = "-1002535448806"
